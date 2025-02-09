@@ -80,19 +80,3 @@
 
  <img src="./UI/quotes.png"/>
 
----
-
-## 5 Commit and No Lorem Ipsum
-
-- A minimum of five commits were made to ensure incremental progress.
-- No placeholder text (e.g., Lorem Ipsum) . All content must have to be meaningful and relevant.
-
----
-
-# Technology
-
-- HTML & CSS only
-- You can't use any other technology / Framework.
-
----
-
